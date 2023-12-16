@@ -1,7 +1,6 @@
 # 15DaysCSS_Challenge
 
-Started 15 Days 15 projects challenge using html and css, to revise and get back on track . 
-With the end of year , lets revise all the built-up skills in the past year 
+I have embarked on the "15 Days 15 Projects" challenge using HTML and CSS to revisit and reinforce my skills. This initiative aims to consolidate the knowledge built over the past year.
 
 #Day1 Challenge
 
