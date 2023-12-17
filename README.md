@@ -9,4 +9,10 @@ output Screenshot:
 ![image](https://github.com/aisha09agarwal/15DaysCSS_Challenge/assets/78947668/05c7a23d-c2df-42b6-ade0-cb0355ab2110)
 
 
+#Day 2
+
+![image](https://github.com/aisha09agarwal/15DaysCSS_Challenge/assets/78947668/781b7fc6-4ee2-4127-b091-b8e467e14646)
+
+
+
 
